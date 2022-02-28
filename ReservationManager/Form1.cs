@@ -26,5 +26,10 @@ namespace ReservationManager
         {
             //pecata
         }
+        
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Todor
+        }
     }
 }
